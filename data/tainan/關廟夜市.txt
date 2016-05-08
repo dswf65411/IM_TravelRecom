@@ -1,0 +1,3 @@
+{"category": "property", "content": "ÁÊª«"}
+{"category": "score", "content": 4.0}
+{"category": "rank", "content": 22}

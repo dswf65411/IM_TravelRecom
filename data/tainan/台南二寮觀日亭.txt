@@ -1,0 +1,3 @@
+{"category": "property", "content": "Æ[¥ú"}
+{"category": "score", "content": 4.5}
+{"category": "rank", "content": 15}
