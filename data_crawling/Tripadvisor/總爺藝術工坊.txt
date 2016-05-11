@@ -1,5 +1,6 @@
 {"category": "property", "content": "觀光"}
 {"category": "score", "content": 4.5}
+{"category": "score_num", "content": 6}
 {"category": "rank", "content": "台南市排名第 48 的觀光 (共 228 個) "}
 {"category": "comment", "content": "清閒好地方:非常好 不錯 停車方便 免費參觀 有冰可以吃 如廁便利 空氣新鮮 彷彿置身日本時代......…....................."}
 {"category": "comment", "content": "幽靜有致:很適合結伴同行的地方，方便聊天、走路，除了了解糖業歷史，也可以吃點東西。這裡的建築古蹟，日造木屋的巧思值得推薦。"}

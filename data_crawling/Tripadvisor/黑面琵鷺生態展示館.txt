@@ -1,5 +1,6 @@
 {"category": "property", "content": "觀光"}
 {"category": "score", "content": 3.5}
+{"category": "score_num", "content": 5}
 {"category": "rank", "content": "台南市排名第 98 的觀光 (共 228 個) "}
 {"category": "comment", "content": "拜訪珍寶黑琶 Happy:有台南市專線公車可以到，有志工及望遠鏡免費介紹，如自行開車前往，推薦在五嬸或阿芳海產店或在台17線旁三不等用餐。"}
 {"category": "comment", "content": "隨便走走:下大雨，想找個地方躲雨參觀，第一次到附近，因為不是黑面琵鷺時間，所以想看展覽館有展示什麼？沒想到導航地點錯誤，超過展示館位置很多，因為展示館不是室內的，所以被誤導，還好到達時沒有雨了，就隨便走走看風景！"}

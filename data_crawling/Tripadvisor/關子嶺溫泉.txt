@@ -1,5 +1,6 @@
 {"category": "property", "content": "觀光"}
 {"category": "score", "content": 4.5}
+{"category": "score_num", "content": 97}
 {"category": "rank", "content": "台南市排名第 8 的觀光 (共 228 個) "}
 {"category": "comment", "content": "溫泉水滑，但景點欠奉:關子嶺溫泉是四大溫泉之一（其他是陽明山，北投，四重溪）。他的溫泉水真的非常之滑，浸浴之後皮膚變得滑滑的，是非常之好的?泉。但附近風景欠奉，不過附近也有一些很好味的食店，也有咖啡店可以悠閑一個下午"}
 {"category": "comment", "content": "泡湯好去處:這邊的溫泉很特別跟其他地方不一樣屬於泥漿溫泉泡完皮膚會變滑泡過北投礁溪谷關四重溪台灣的各大溫泉我最喜歡關子嶺溫泉"}

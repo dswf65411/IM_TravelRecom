@@ -1,5 +1,6 @@
 {"category": "property", "content": "觀光"}
 {"category": "score", "content": 4.0}
+{"category": "score_num", "content": 29}
 {"category": "rank", "content": "台南市排名第 25 的觀光 (共 228 個) "}
 {"category": "comment", "content": "台灣歷史很老的天后宮:安平地區的信仰中心『天后宮』，是一間歷史悠久、古老的廟宇。除了主祀媽祖外，聽說月下老人也可以好好參拜一下，當地人都說很靈的～"}
 {"category": "comment", "content": "深度旅遊必選:也許外觀看起來就只是一間古老的廟宇,但若能細細了解其歷史來由,與台灣第一的稱號,欣賞廟宇建築裝潢上的精細巧工,與每一個圖畫的背景故事,待一整天都還嫌不夠呢.....絕對是深度旅遊的首選之一"}

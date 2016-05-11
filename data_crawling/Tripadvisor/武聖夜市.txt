@@ -1,5 +1,6 @@
 {"category": "property", "content": "觀光"}
 {"category": "score", "content": 4.0}
+{"category": "score_num", "content": 32}
 {"category": "rank", "content": "台南市排名第 24 的觀光 (共 228 個) "}
 {"category": "comment", "content": "地方風味獨樹一格:屬於地方夜市 但攤位很多 具有台南特色 鄰近和緯路 可順便去台南好市多 湖美星巴克 太魯閣棒球打擊場 宜得利家居 特力屋"}
 {"category": "comment", "content": "歷史悠久的台南夜市:武聖夜市是許多台南人小時候的回憶，後來因為相繼面臨各大型夜市的出現與轉型，導致客源逐一被瓜分，不如過去這麼風光。但隨著努力轉型與維持品質，逐漸地吸引年輕族群回流，近年來又開始喚醒它在台南人心目中的地位。"}

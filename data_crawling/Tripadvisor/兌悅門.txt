@@ -1,5 +1,6 @@
 {"category": "property", "content": "觀光"}
 {"category": "score", "content": 4.5}
+{"category": "score_num", "content": 8}
 {"category": "rank", "content": "台南市排名第 46 的觀光 (共 228 個) "}
 {"category": "comment", "content": "臺南遊:臺南有許多特色景點可以讓旅人前往發，穿梭在大大小小的巷弄間，你會有很多意想不到的驚奇，適合前往旅遊玩樂，也有非常多的小吃。"}
 {"category": "comment", "content": "台江外沉僅兌門~~~!!!^^:兌門今往台江尚古味~~古說外侮海賊列西陣~~再說風水傳奇抗洋行~~弓藏暗箭往安平鎮商~~今有區巷尾弄寶店藏~~慢步取景走讀兌門巷~~如獲至寶古說永不藏~~^^!"}

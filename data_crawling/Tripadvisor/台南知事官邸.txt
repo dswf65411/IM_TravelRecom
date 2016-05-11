@@ -1,5 +1,6 @@
 {"category": "property", "content": "觀光"}
 {"category": "score", "content": 4.0}
+{"category": "score_num", "content": 8}
 {"category": "rank", "content": "台南市排名第 50 的觀光 (共 228 個) "}
 {"category": "comment", "content": "洋樓可以如此漂亮:路過時，眼前一亮，好漂亮的建築。更不可思議的是，古蹟可以如此的脫俗，可以感受到台南市對古蹟保存的用心。"}
 {"category": "comment", "content": "西式的日本建築:終於修復好開放的一個日式古蹟。雖然是日本建築，不過外型是比較偏西方的歐式建築，目前主要以文創和餐廳為主。蠻不錯的拍照景點。"}

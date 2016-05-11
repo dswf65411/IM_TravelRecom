@@ -1,5 +1,6 @@
 {"category": "property", "content": "觀光"}
 {"category": "score", "content": 4.0}
+{"category": "score_num", "content": 14}
 {"category": "rank", "content": "台南市排名第 37 的觀光 (共 228 個) "}
 {"category": "comment", "content": "都市裡的夜明珠:光是從大門口經過,絕對不會發現任何驚喜.如圖所見,只是一棟有點歐式的古建築,看起來像棟辦公室,怎能稱為\"園\" ? 但如果從旁邊進入,慢慢往後走,會發現視野越來越開闊,裡面真是別有洞天. 好個都市裡的明燈 ! 很美的植物配上很美的湖, 寧靜的氣氛加上流水聲,非常療癒的地方.裡面有 Coffee shop / Gift shop /..."}
 {"category": "comment", "content": "散步好地方:飯後可以來這裡散散步 可說是市中心的一處綠洲 藏身小巷中 有涼亭有階梯 有仿古建築 也是個拍照的好所在"}

@@ -1,5 +1,6 @@
 {"category": "property", "content": "觀光"}
 {"category": "score", "content": 4.0}
+{"category": "score_num", "content": 9}
 {"category": "rank", "content": "台南市排名第 49 的觀光 (共 228 個) "}
 {"category": "comment", "content": "值得一遊:大約花一個小時可以參觀完畢介紹黑橋牌香腸的起源還有一些故事有懷舊佈置一樓賣香腸以及冬瓜茶好吃 好喝"}
 {"category": "comment", "content": "有得吃有得看:適合全家大小一起來的好所在~年前去時,館內有教人怎麼製作年菜,也有各種口味的香腸小點心伴手禮價格有點偏高但有些還是很值得買樓上設置的懷舊街道攤販讓人眼睛為之一亮!"}

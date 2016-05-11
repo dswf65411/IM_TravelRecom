@@ -1,5 +1,6 @@
 {"category": "property", "content": "觀光"}
 {"category": "score", "content": 3.5}
+{"category": "score_num", "content": 35}
 {"category": "rank", "content": "台南市排名第 34 的觀光 (共 228 個) "}
 {"category": "comment", "content": "生日鹽很特別:日式建築主體，內部介紹鹽的相關知識與產品最具特色的就是366日的生日彩色鹽，每一天都有不同的寓意裡面有販賣不少鹽相關商品及食物"}
 {"category": "comment", "content": "麻雀雖小，五臟俱全:日式風格濃厚的一個景點，適合情侶或是朋友一同前去。365種顏色的生日鹽是一大特色之一，外面還有適合小朋友玩耍的親水設施。鹽能有的變化如此之多，頗有鈺叫於樂的功能。"}

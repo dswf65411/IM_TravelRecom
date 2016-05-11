@@ -1,5 +1,6 @@
 {"category": "property", "content": "購物"}
 {"category": "score", "content": 4.0}
+{"category": "score_num", "content": 149}
 {"category": "rank", "content": "台南市排名第 2 的購物 (共 56 個) "}
 {"category": "comment", "content": "人多環境衛生需加強:花園夜市雖然場地大，攤位看起來很多，但是重複性的小吃太多，其實可以選擇的也只有那幾樣(^_^;)，當然環境衛生上可以再加強。"}
 {"category": "comment", "content": "大家比誰的旗高:整個花園夜市的規模真的很大，從各種美味小吃到玩的種類非常多，不過重複性也比較高，攤販前都會插上旗子來招攬顧客，所以遠遠望去就看見好多旗子，蔚為奇觀。"}

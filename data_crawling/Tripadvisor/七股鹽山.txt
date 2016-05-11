@@ -1,5 +1,6 @@
 {"category": "property", "content": "觀光"}
 {"category": "score", "content": 3.0}
+{"category": "score_num", "content": 70}
 {"category": "rank", "content": "台南市排名第 38 的觀光 (共 228 個) "}
 {"category": "comment", "content": "適合全家出遊的好地方:七股鹽山是一個適合全家同遊的好地方，可以爬鹽山也可以享用特色的餐點，還可以看到許多鹽的周邊商品，更可以了解與認識鹽田，很寓教於樂的地方！"}
 {"category": "comment", "content": "沒有來過的，可以一遊:看過網路照片，慕名而來，說實在的遠看是座雪白色的小山丘，但是走近要登頂，才發現質地真的是結晶鹽塊形成的。週邊的設施與台鹽賣場可以逛逛休息一下。整體說來如果沒看過鹽山，可以一遊"}

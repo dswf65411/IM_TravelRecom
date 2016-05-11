@@ -1,5 +1,6 @@
 {"category": "property", "content": "觀光"}
 {"category": "score", "content": 4.0}
+{"category": "score_num", "content": 247}
 {"category": "rank", "content": "台南市排名第 4 的觀光 (共 228 個) "}
 {"category": "comment", "content": "滿懷人文氣息與寧靜:古色古香的台南孔廟，除了是一級古蹟外，也是台灣保留最完整的孔廟，加上周遭大樹眾多，在炎熱的台南街區中，多了一處可走走乘涼的地方，對面的府中街，除了有各式的台南當地小吃外，特別打造的街道也與孔廟相互輝映"}
 {"category": "comment", "content": "歷史風味悠久:附近歷史建築很多 且有莉莉冰果店 福記肉圓 風味獨特 交通方便 位於府前路 南門路交叉 古色古香 很適合帶小孩前往 樹木還有松鼠"}

@@ -1,5 +1,6 @@
 {"category": "property", "content": "觀光"}
 {"category": "score", "content": 4.5}
+{"category": "score_num", "content": 105}
 {"category": "rank", "content": "台南市排名第 6 的觀光 (共 228 個) "}
 {"category": "comment", "content": "朋友家人用餐聊天娛樂的好去處:這裡不論是白天還是夜晚都很漂亮~表演也是非常好看~帶小朋友來有寓教娛樂~跟朋友夜間來也有露天咖啡~聊聊天看星星"}
 {"category": "comment", "content": "十鼓擊樂團:他們的演出很令人震撼!! 這裡雖然超級熱的!!但是很合適全家大小一同出遊的好地方~而且也可以體驗打擊真的很好玩^^ 島染人員也幽默有趣。PS 記得請穿布鞋阿~~~~"}

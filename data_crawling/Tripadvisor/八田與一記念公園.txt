@@ -1,5 +1,6 @@
 {"category": "property", "content": "觀光"}
 {"category": "score", "content": 4.5}
+{"category": "score_num", "content": 46}
 {"category": "rank", "content": "台南市排名第 15 的觀光 (共 228 個) "}
 {"category": "comment", "content": "思念:緬懷一位對台灣歷史建設有重大貢獻的日本人!坐落於烏山頭水庫內,有文物及照片的保留!讓我們了解八田與一對台灣的貢獻!"}
 {"category": "comment", "content": "復古 偉大:出身金澤的八田與一為台灣的水利建設做出了重大的貢獻這裡有當時的房子 應該是後來重建的充滿了日式的感覺好像到了日本一樣"}

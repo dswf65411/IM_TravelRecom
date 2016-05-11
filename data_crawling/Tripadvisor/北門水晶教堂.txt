@@ -1,5 +1,6 @@
 {"category": "property", "content": "觀光"}
 {"category": "score", "content": 3.5}
+{"category": "score_num", "content": 55}
 {"category": "rank", "content": "台南市排名第 32 的觀光 (共 228 個) "}
 {"category": "comment", "content": "知名情侶景點:浪漫的情侶景點, 適合去留下甜蜜合影旁邊還有小景點可以一併前去例如: 錢來也雜貨店, 夕張所, 遊客中心牆上的彩繪也是謀殺底片的最好地點適合情侶出遊一經"}
 {"category": "comment", "content": "距離遠,感覺好小:可能是因為還在建置中吧,景點被隔得很遠,只能從遠處觀望,究竟是因為怕奧客太多被破壞,還是還沒建置完成,這我就不清楚了."}

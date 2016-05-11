@@ -1,5 +1,6 @@
 {"category": "property", "content": "觀光"}
 {"category": "score", "content": 4.5}
+{"category": "score_num", "content": 322}
 {"category": "rank", "content": "台南市排名第 1 的觀光 (共 228 個) "}
 {"category": "comment", "content": "值得一遊！:可以從台南車站坐火車去保安車站，再走一下就到了！還可以買一張永保安康的車票！不過園區人很多，所以要拍照取景不容易，但可以體驗一下雄偉的建築！推薦一遊！"}
 {"category": "comment", "content": "拍照攝影溜小孩的好地方:可以建議傍晚太陽下山前來~可以一次享受白天及夜晚的感受~面積很大~如果想要拍照攝影建議平日來~假日人太多了~停車也很方便"}

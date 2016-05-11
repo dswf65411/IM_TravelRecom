@@ -1,5 +1,6 @@
 {"category": "property", "content": "觀光"}
 {"category": "score", "content": 4.0}
+{"category": "score_num", "content": 11}
 {"category": "rank", "content": "台南市排名第 45 的觀光 (共 228 個) "}
 {"category": "comment", "content": "寓教於樂:從鹽的生產過程到鹽的歷史，通通都鉅細靡遺的在館內呈現。每次去都有不一樣的『鹽』所製做出的各種主題展覽，不會讓人覺得一成不變。"}
 {"category": "comment", "content": "有點可惜:在2015年6月時來過. 內部的設施跟展覽都很不錯. 但11月再訪居然吃了閉門羹XD. 現在是整修期間且復館時間不明. 公告上也沒有很明確 . 不然以一間鹽博物館來說 . 這間蓋的很好. 珍珠奶茶鹽冰棒更是令人懷念~"}

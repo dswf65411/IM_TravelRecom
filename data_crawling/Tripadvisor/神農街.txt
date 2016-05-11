@@ -1,5 +1,6 @@
 {"category": "property", "content": "觀光"}
 {"category": "score", "content": 4.0}
+{"category": "score_num", "content": 218}
 {"category": "rank", "content": "台南市排名第 7 的觀光 (共 228 個) "}
 {"category": "comment", "content": "悠閒放輕鬆的好地方:很適合拍照悠閒漫步的好地方~還可以坐下來喝茶咖啡享受一下下午悠閒的好時光~裡面也不少文創商品可以來挖寶喔"}
 {"category": "comment", "content": "懷古與創意:雖然經過整修，但整體街區的古味仍舊濃厚。街道的周圍也陸續產生許多有趣的店家，兼具文化厚度與活潑創意。建議可挑早上時段前往看看人群較少的街區，欣賞建築，再挑傍晚或是晚間前往，一睹老街區加上「人」的元素所產生的火花。"}

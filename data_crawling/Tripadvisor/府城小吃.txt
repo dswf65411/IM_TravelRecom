@@ -1,5 +1,6 @@
 {"category": "property", "content": "購物"}
 {"category": "score", "content": 5.0}
+{"category": "score_num", "content": 2}
 {"category": "rank", "content": "台南市排名第 16 的購物 (共 56 個) "}
 {"category": "comment", "content": "吃在台南:台南人真好命，各式美食小吃都可享受最道地的?味。 那古早味是其它地方嚐不到的啦~~有空一定要?一趟台南小吃吃透透~"}
 {"category": "comment", "content": "溫馨親切又懷舊:一條街上，琳琅滿目，應有盡有，充滿懷舊街景，全是兒時的回憶，逛了一趟府城小吃，就好像做了一遍台南府城巡禮"}

@@ -1,5 +1,6 @@
 {"category": "property", "content": "觀光"}
 {"category": "score", "content": 4.5}
+{"category": "score_num", "content": 70}
 {"category": "rank", "content": "台南市排名第 11 的觀光 (共 228 個) "}
 {"category": "comment", "content": "令人舒適的大學校園:寬廣的大學校園, 有台南舊城牆遺址,也有大片草皮 水池與像極某人壽標誌的巨大榕樹, 非常適合情侶散步散心或是小孩放風"}
 {"category": "comment", "content": "廣闊的校園，林蔭大道與歷史建築相輝映:位於東區校地寬廣，區內榕園大榕樹與草地相呼應，非常壯觀，多處歷史建築，頗值得一一探究，很適合假日午後以自行車在校園內穿梭而行，古城牆與現代雕塑隨處可見，古意與現代交錯，頗值得一遊之地。"}
