@@ -1,0 +1,3 @@
+{"category": "property", "content": "觀光"}
+{"category": "score", "content": 4.0}
+{"category": "rank", "content": "台南市排名第 107 的觀光 (共 228 個) "}

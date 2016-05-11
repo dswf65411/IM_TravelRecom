@@ -1,4 +1,0 @@
-{"category": "property", "content": "觀光"}
-{"category": "score", "content": 3.5}
-{"category": "rank", "content": 25}
-{"category": "comment", "content": "很用心耶:蠟像鰻精緻的!!整體台灣故事演變也很合理有冷氣這點很貼心不過因為故事隔間的關係有的強有的弱。場景的搭建也很用心看到好多很久以前在爺爺家看過的東西還有很多更古老的工具還不錯唷!!"}

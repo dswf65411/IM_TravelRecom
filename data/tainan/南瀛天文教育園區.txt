@@ -1,5 +1,0 @@
-{"category": "property", "content": "觀光"}
-{"category": "score", "content": 3.5}
-{"category": "rank", "content": 15}
-{"category": "comment", "content": "可以讓小孩體驗活動:位於台南市的天文教育園區,裡面有許多的體驗課程,如:科氏力體驗,天文望遠鏡體驗....等,雖然規模沒有很大,若有來台南可以來參觀,尤其是家裡有小學生的小孩..."}
-{"category": "comment", "content": "欠缺維護:初始架構還行，但很多設備舊了沒有很好的維護，大致上還算值得帶小朋友一起來的地方，也可以瞭解一些宇宙科學的常識。"}

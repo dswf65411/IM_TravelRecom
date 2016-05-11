@@ -1,5 +1,0 @@
-{"category": "property", "content": "觀光"}
-{"category": "score", "content": 3.5}
-{"category": "rank", "content": 16}
-{"category": "comment", "content": "七股夕陽:黃昏時是參觀的好時機，冬天可以看到國際保育類級黑面琵鷺，遠眺曾文溪出海口。天氣好時是欣賞夕陽的好地方，七股潟湖、黑面琵鷺、夕陽，相當不錯的觀賞地方。"}
-{"category": "comment", "content": "盡收落日美景:在觀海樓遠眺四周，可見沙洲、潟湖、鹽田的景象，落日餘暉的美景盡收眼底。還有以看到中央氣象局七股雷達站及台灣鹽博物館。"}
